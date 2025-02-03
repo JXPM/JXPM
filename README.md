@@ -6,7 +6,7 @@ Je suis étudiant en **Data Science à l'IA School Lille**, passionné par **l'a
 ## 🚀 Compétences & Technologies
 <table>
   <tr>
-    <td valign="top">
+    <td valign="top" width="33%">
       
 ### 🔢 Analyse de données
 - ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=MySQL&logoColor=white) **(PostgreSQL, MySQL, SQL Server)**
@@ -19,7 +19,7 @@ Je suis étudiant en **Data Science à l'IA School Lille**, passionné par **l'a
 - ![Excel](https://img.shields.io/badge/Excel-217346?style=flat&logo=Microsoft%20Excel&logoColor=white)
 
     </td>
-    <td valign="top">
+    <td valign="top" width="33%">
       
 ### 💻 Développement
 - ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
@@ -29,6 +29,9 @@ Je suis étudiant en **Data Science à l'IA School Lille**, passionné par **l'a
 - ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
 - ![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=Flask&logoColor=white)
 
+    </td>
+    <td valign="top" width="33%">
+      
 ### 🎨 Design & Créativité
 - ![Adobe](https://img.shields.io/badge/Adobe-FF0000?style=flat&logo=Adobe&logoColor=white) **(Photoshop, Illustrator, InDesign)**
 - ![Canva](https://img.shields.io/badge/Canva-00C4CC?style=flat&logo=Canva&logoColor=white)
@@ -53,5 +56,5 @@ J’ai plusieurs certifications (disponibles en PDF) attestant de mes compétenc
 - **GitHub** : https://github.com/JXPM
 - **LinkedIn** : https://www.linkedin.com/in/kouam%C3%A9-bile-8682b8296/
 - **Email** : bilekouame04@gmail.com
-
+  
 Créons quelque chose d’incroyable ensemble ! 🚀
