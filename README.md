@@ -17,6 +17,7 @@ Je suis étudiant en **Data Science à l'IA School Lille**, passionné par **l'a
 - **Cryptogramme**
 - ![Odoo](https://img.shields.io/badge/Odoo-7A7D8F?style=flat&logo=Odoo&logoColor=white)
 - ![Excel](https://img.shields.io/badge/Excel-217346?style=flat&logo=Microsoft%20Excel&logoColor=white)
+- <img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="50" height="50" />
 
     </td>
     <td valign="top" width="33%">
@@ -28,6 +29,7 @@ Je suis étudiant en **Data Science à l'IA School Lille**, passionné par **l'a
 - ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
 - ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
 - ![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=Flask&logoColor=white)
+- <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="50" height="50" />
 
     </td>
     <td valign="top" width="33%">
@@ -35,6 +37,7 @@ Je suis étudiant en **Data Science à l'IA School Lille**, passionné par **l'a
 ### 🎨 Design & Créativité
 - ![Adobe](https://img.shields.io/badge/Adobe-FF0000?style=flat&logo=Adobe&logoColor=white) **(Photoshop, Illustrator, InDesign)**
 - ![Canva](https://img.shields.io/badge/Canva-00C4CC?style=flat&logo=Canva&logoColor=white)
+- <img src="https://media.giphy.com/media/26BRzozg4TCBXv6QU/giphy.gif" width="50" height="50" />
 
 ### 🛠 Maintenance & Support IT
 - **Maintenance hardware & software**
@@ -56,5 +59,5 @@ J’ai plusieurs certifications (disponibles en PDF) attestant de mes compétenc
 - **GitHub** : https://github.com/JXPM
 - **LinkedIn** : https://www.linkedin.com/in/kouam%C3%A9-bile-8682b8296/
 - **Email** : bilekouame04@gmail.com
-  
+
 Créons quelque chose d’incroyable ensemble ! 🚀
