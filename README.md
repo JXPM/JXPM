@@ -4,6 +4,10 @@
 Je suis étudiant en **Data Science à l'IA School Lille**, passionné par **l'analyse de données, le développement et le design**. Actuellement, je recherche une **alternance** en analyse de données pour approfondir mon expertise et contribuer à des projets innovants.
 
 ## 🚀 Compétences & Technologies
+<table>
+  <tr>
+    <td valign="top">
+      
 ### 🔢 Analyse de données
 - ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=MySQL&logoColor=white) **(PostgreSQL, MySQL, SQL Server)**
 - ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) **(Pandas, NumPy, Scikit-learn)**
@@ -14,6 +18,9 @@ Je suis étudiant en **Data Science à l'IA School Lille**, passionné par **l'a
 - ![Odoo](https://img.shields.io/badge/Odoo-7A7D8F?style=flat&logo=Odoo&logoColor=white)
 - ![Excel](https://img.shields.io/badge/Excel-217346?style=flat&logo=Microsoft%20Excel&logoColor=white)
 
+    </td>
+    <td valign="top">
+      
 ### 💻 Développement
 - ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 - ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
@@ -30,6 +37,9 @@ Je suis étudiant en **Data Science à l'IA School Lille**, passionné par **l'a
 - **Maintenance hardware & software**
 - **Administration système**
 - **Configuration réseau**
+    </td>
+  </tr>
+</table>
 
 ## 📜 Certifications
 J’ai plusieurs certifications (disponibles en PDF) attestant de mes compétences en **analyse de données, développement et maintenance IT**.
@@ -45,18 +55,3 @@ J’ai plusieurs certifications (disponibles en PDF) attestant de mes compétenc
 - **Email** : bilekouame04@gmail.com
 
 Créons quelque chose d’incroyable ensemble ! 🚀
-
-<!--
-**JXPM/JXPM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
