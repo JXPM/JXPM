@@ -44,6 +44,10 @@ Je suis étudiant en **Data Science à l'IA School Lille**, passionné par **l'a
   </tr>
 </table>
 
+## 💻 Système d'exploitation
+- ![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat&logo=Windows&logoColor=white) **Windows**
+- ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat&logo=Ubuntu&logoColor=white) **Linux (Ubuntu)**
+
 ## 📜 Certifications
 J’ai plusieurs certifications (disponibles en PDF) attestant de mes compétences en **analyse de données, développement et maintenance IT**.
 
