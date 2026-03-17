@@ -50,6 +50,12 @@
 </div>
 
 ---
+### 🎟️ Issues & Pull Requests
+<div align="center">
+  <img src="./metrics.plugin.followup.svg" alt="Follow-up issues and PRs"/>
+</div>
+
+---
 
 ### 👨‍💻 About
 
