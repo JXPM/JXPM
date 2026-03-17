@@ -1,7 +1,7 @@
+<img src="https://raw.githubusercontent.com/JXPM/JXPM/refs/heads/main/9277762.jpg" width="100%" alt="header"/>
+
 <div >
 
-<!-- Remplace header.png par ton image pixel art uploadée dans le repo -->
-<img src="https://raw.githubusercontent.com/JXPM/JXPM/refs/heads/main/9277762.jpg" width="100%" alt="header"/>
 <br><br>
 
 # `Johan BILE Kouamé`
