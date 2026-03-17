@@ -1,14 +1,16 @@
 <div align="center">
 
-<br>
+<!-- Remplace header.png par ton image pixel art uploadée dans le repo -->
+<img src="./header.png" width="100%" alt="header"/>
+
+<br><br>
 
 # `Johan BILE Kouamé`
-
 `// Data Science · AI · Data Engineering`
 
 <br>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=14&duration=3000&pause=1000&color=38BDAE&center=true&vCenter=true&width=540&lines=raw_data+%E2%86%92+clean+%E2%86%92+model+%E2%86%92+insights;%C3%89tudiant+Data+Science+%40+IA+School+Lille;Passionn%C3%A9+par+la+donn%C3%A9e+et+l%27intelligence+artificielle;Open+to+alternance+%C2%B7+Lille)](https://github.com/JXPM)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=14&duration=3000&pause=1000&color=38BDAE&center=true&vCenter=true&width=540&lines=raw_data+%E2%86%92+clean+%E2%86%92+model+%E2%86%92+insights;%C3%89tudiant+Data+Science+%40+IA+School+Lille;Passionn%C3%A9+par+la+donn%C3%A9e+et+l%27IA;Open+to+alternance+%C2%B7+Lille)](https://github.com/JXPM)
 
 <br>
 
@@ -33,6 +35,17 @@
 <br>
 
 <img src="https://streak-stats.demolab.com/?user=JXPM&theme=tokyonight&hide_border=true&background=0d1117&ring=4479A1&fire=38bdae&currStreakLabel=4479A1"/>
+
+</div>
+
+---
+
+### 📅 Isometric Commit Calendar
+
+<div align="center">
+
+<!-- Généré automatiquement par le GitHub Action lowlighter/metrics -->
+<img src="./metrics.isocalendar.svg" alt="Isometric commit calendar"/>
 
 </div>
 
@@ -69,8 +82,8 @@
 
 | Project | Description | Stack |
 |---------|-------------|-------|
-| [**ObRail Europe**](https://github.com/JXPM) | Pipeline ETL · API REST industrialisée pour flux ferroviaires européens | `FastAPI` `PostgreSQL` `Docker` `CI/CD` |
-| [**Chatbot IT**](https://github.com/JXPM) | Assistant conversationnel NLP connecté à l'API OpenAI via Flask | `Python` `Flask` `OpenAI` `JS` |
+| [**ObRail Europe**](https://github.com/JXPM) | Pipeline ETL · API REST pour flux ferroviaires européens | `FastAPI` `PostgreSQL` `Docker` `CI/CD` |
+| [**Chatbot IT**](https://github.com/JXPM) | Assistant conversationnel NLP via OpenAI API + Flask | `Python` `Flask` `OpenAI` `JS` |
 | [**Projet GEMA**](https://github.com/JXPM) | Architecture BDD & gouvernance des données pour J&M Écodigital | `SQL` `Modeling` `PM` |
 | [**Site Fingec**](https://github.com/JXPM) | Personnalisation full-stack avec charte graphique sur mesure | `MySQL` `PHP` `CSS` |
 
