@@ -1,65 +1,145 @@
-## 👋 Hello, je suis Johan (BILE Kouamé) !
+<p align="center">
 
-### 🎓 À propos de moi
-Je suis étudiant en **Data Science à l'IA School Lille**, passionné par **l'analyse de données, le développement et le design**. Actuellement, je recherche une **alternance** en analyse de données pour approfondir mon expertise et contribuer à des projets innovants.
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Johan%20BILE%20Kouamé&fontSize=40&fontAlignY=35"/>
+
+</p>
+
+<h2 align="center">Data Science • Artificial Intelligence • Development</h2>
 
 ---
 
-### 📊 Statistiques GitHub
+## Profile
+
+I am a **Data Science student at IA School Lille** with a strong interest in **Artificial Intelligence, Data Engineering and Software Development**.
+
+My objective is to design **data-driven systems and intelligent tools** that help organizations make better decisions.
+
+Currently looking for a **Data Analyst / Data Science apprenticeship** where I can contribute to real-world projects and continue developing my expertise.
+
+---
+
+## Technical Stack
+
+### Programming
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JXPM&show_icons=true&theme=radical" alt="Statistiques GitHub" width="48%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JXPM&layout=compact&theme=radical" alt="Langages les plus utilisés" width="48%"/>
+
+<img src="https://skillicons.dev/icons?i=python,js,php,html,css,nodejs"/>
+
+</p>
+
+### Data Science & Analytics
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=postgres,mysql,r"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/PowerBI-Data%20Visualization-black?style=for-the-badge&logo=powerbi"/>
+<img src="https://img.shields.io/badge/Tableau-Business%20Intelligence-black?style=for-the-badge&logo=tableau"/>
+
+</p>
+
+### Systems
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=linux,windows"/>
+
 </p>
 
 ---
 
-### 🚀 Compétences & Technologies
+## Data & AI Focus
 
-#### 💻 Développement
-<p align="center">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
-</p>
+Areas I am actively developing expertise in:
 
-#### 📊 Analyse de données
-<p align="center">
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=R&logoColor=white" />
-  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=Power-BI&logoColor=black" />
-  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
-</p>
+- Data Analysis
+- Machine Learning
+- Data Engineering
+- AI Systems Integration
+- Data Visualization
+- Automation
 
-#### 🛠️ Systèmes d'exploitation
+---
+
+## Selected Projects
+
+### GEMA Project
+Database architecture and project coordination for **J&M Écodigital**
+
+- Database design
+- Data structure planning
+- Project management
+
+---
+
+### IT Chatbot
+
+Development of a conversational assistant integrating:
+
+- Python
+- Flask
+- JavaScript
+- OpenAI API
+- Structured FAQ system
+
+---
+
+### Fingec Website
+
+Customization and database management including:
+
+- MySQL Workbench
+- Data structure integration
+- Interface improvement
+
+---
+
+## Certifications
+
+- Microsoft Power BI Data Analyst Associate
+- Google Data Analytics Professional Certificate
+- IBM Data Science Professional Certificate
+- Oracle SQL Certified Associate
+
+---
+
+## GitHub Activity
+
 <p align="center">
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-  <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=JXPM&show_icons=true&theme=tokyonight"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JXPM&layout=compact&theme=tokyonight"/>
+
 </p>
 
 ---
 
-### 🌟 Certifications
-- **Microsoft Power BI Data Analyst Associate**
-- **Google Data Analytics Professional Certificate**
-- **IBM Data Science Professional Certificate**
-- **Oracle SQL Certified Associate**
+## Contact
 
----
-
-### 📌 Projets phares
-- **Projet GEMA** : Chef de projet et concepteur de bases de données pour J&M Écodigital.
-- **Chatbot IT** : Développement d’un chatbot interactif avec JavaScript, Python, Flask et l'API OpenAI.
-- **Site Fingec** : Personnalisation d’un site avec MySQL Workbench et charte graphique professionnelle.
-
----
-
-### 📧 Me contacter
 <p align="center">
-  <a href="https://github.com/JXPM"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/kouam%C3%A9-bile-8682b8296/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:bilekouame04@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+
+<a href="https://github.com/JXPM">
+<img src="https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github"/>
+</a>
+
+<a href="https://www.linkedin.com/in/kouam%C3%A9-bile-8682b8296/">
+<img src="https://img.shields.io/badge/LinkedIn-Professional%20Network-black?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="mailto:bilekouame04@gmail.com">
+<img src="https://img.shields.io/badge/Email-Contact-black?style=for-the-badge&logo=gmail"/>
+</a>
+
+</p>
+
+<p align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer"/>
+
 </p>
