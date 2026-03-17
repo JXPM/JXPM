@@ -1,117 +1,105 @@
+<div align="center">
+
 <br>
-<table border="0" cellpadding="12"><tr>
-<td>
-  <img src="https://ui-avatars.com/api/?name=Johan+Bile&background=4479A1&color=fff&rounded=true&bold=true&size=60" width="60"/>
-</td>
-<td align="left">
-  <h3>Johan BILE Kouamé</h3>
-  <sub><code>// Data Science & AI Engineering</code></sub><br><br>
-  <img src="https://img.shields.io/badge/●_open_to_alternance_·_Lille-0a3d1f?style=flat-square&color=0d4d22&logoColor=white"/>
-</td>
-</tr></table>
+
+# `Johan BILE Kouamé`
+
+`// Data Science · AI · Data Engineering`
+
 <br>
----
-`MODEL OVERVIEW`
-`// input → process → output`
-<p>
-  <img src="https://img.shields.io/badge/raw_data-2b2d42?style=flat-square"/>
-  &nbsp;<b>→</b>&nbsp;
-  <img src="https://img.shields.io/badge/clean_%26_explore-2b2d42?style=flat-square"/>
-  &nbsp;<b>→</b>&nbsp;
-  <img src="https://img.shields.io/badge/model_%26_visualize-2b2d42?style=flat-square"/>
-  &nbsp;<b>→</b>&nbsp;
-  <img src="https://img.shields.io/badge/deploy_insights-2b2d42?style=flat-square"/>
-</p>
----
-`FEATURE MATRIX`
-<table>
-<tr>
-<td width="160">
-  <sub><code>🔵 lang</code></sub><br/>
-  <strong>Python</strong><br/>
-  <img src="https://img.shields.io/badge/-4479A1?style=flat-square" height="4" width="130"/>
-</td>
-<td width="160">
-  <sub><code>🔵 query</code></sub><br/>
-  <strong>SQL / PostgreSQL</strong><br/>
-  <img src="https://img.shields.io/badge/-4479A1?style=flat-square" height="4" width="130"/>
-</td>
-<td width="160">
-  <sub><code>🟡 viz</code></sub><br/>
-  <strong>Power BI</strong><br/>
-  <img src="https://img.shields.io/badge/-F2C811?style=flat-square" height="4" width="130"/>
-</td>
-<td width="160">
-  <sub><code>🔵 stat</code></sub><br/>
-  <strong>R</strong><br/>
-  <img src="https://img.shields.io/badge/-4479A1?style=flat-square" height="4" width="130"/>
-</td>
-</tr>
-<tr>
-<td>
-  <sub><code>🟠 viz</code></sub><br/>
-  <strong>Tableau</strong><br/>
-  <img src="https://img.shields.io/badge/-E97627?style=flat-square" height="4" width="130"/>
-</td>
-<td>
-  <sub><code>🟢 runtime</code></sub><br/>
-  <strong>Node.js</strong><br/>
-  <img src="https://img.shields.io/badge/-339933?style=flat-square" height="4" width="130"/>
-</td>
-<td></td>
-<td></td>
-</tr>
-</table>
----
-`FEATURED COMMITS`
-<table>
-<tr><td>
-**▶&nbsp; Projet GEMA**
-Chef de projet & conception BDD pour J&M Écodigital — modélisation, architecture et gouvernance des données.
-`SQL` &nbsp;`data modeling` &nbsp;`project lead`
-</td></tr>
-<tr><td>
-**▶&nbsp; Chatbot IT**
-Chatbot interactif s'appuyant sur l'API OpenAI, servi via Flask — NLP appliqué à un contexte métier.
-`Python` &nbsp;`Flask` &nbsp;`OpenAI API` &nbsp;`JS`
-</td></tr>
-<tr><td>
-**▶&nbsp; Site Fingec**
-Personnalisation full-stack avec MySQL Workbench et charte graphique sur mesure.
-`MySQL` &nbsp;`CSS` &nbsp;`PHP`
-</td></tr>
-</table>
----
-`MODEL WEIGHTS`
-`// validated checkpoints`
-<table>
-<tr>
-  <td><img src="https://img.shields.io/badge/MSFT-0078D4?style=flat-square&logoColor=white"/></td>
-  <td>Power BI Data Analyst Associate</td>
-</tr>
-<tr>
-  <td><img src="https://img.shields.io/badge/GOOG-4285F4?style=flat-square&logoColor=white"/></td>
-  <td>Google Data Analytics Professional</td>
-</tr>
-<tr>
-  <td><img src="https://img.shields.io/badge/IBM-052FAD?style=flat-square&logoColor=white"/></td>
-  <td>IBM Data Science Professional</td>
-</tr>
-<tr>
-  <td><img src="https://img.shields.io/badge/ORC-F80000?style=flat-square&logoColor=white"/></td>
-  <td>Oracle SQL Certified Associate</td>
-</tr>
-</table>
----
-`ENDPOINTS`
-<a href="https://github.com/JXPM">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
-</a>
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=14&duration=3000&pause=1000&color=38BDAE&center=true&vCenter=true&width=540&lines=raw_data+%E2%86%92+clean+%E2%86%92+model+%E2%86%92+insights;%C3%89tudiant+Data+Science+%40+IA+School+Lille;Passionn%C3%A9+par+la+donn%C3%A9e+et+l%27intelligence+artificielle;Open+to+alternance+%C2%B7+Lille)](https://github.com/JXPM)
+
+<br>
+
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/JXPM)
 &nbsp;
-<a href="https://www.linkedin.com/in/kouam%C3%A9-bile-8682b8296/">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white"/>
-</a>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kouam%C3%A9-bile-8682b8296/)
 &nbsp;
-<a href="mailto:bilekouame04@gmail.com">
-  <img src="https://img.shields.io/badge/bilekouame04@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white"/>
-</a>
+[![Gmail](https://img.shields.io/badge/bilekouame04@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:bilekouame04@gmail.com)
+
+</div>
+
+---
+
+### 📊 GitHub Analytics
+
+<div align="center">
+
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=JXPM&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=4479A1&icon_color=38bdae&include_all_commits=true&count_private=true"/>
+&nbsp;
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JXPM&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=4479A1"/>
+
+<br>
+
+<img src="https://streak-stats.demolab.com/?user=JXPM&theme=tokyonight&hide_border=true&background=0d1117&ring=4479A1&fire=38bdae&currStreakLabel=4479A1"/>
+
+</div>
+
+---
+
+### 👨‍💻 About
+
+> Étudiant en **Data Science & IA** à **IA School Lille**, passionné par la transformation de données brutes en insights actionnables.
+> À la recherche d'une **alternance** en Data / IA.
+
+---
+
+### ⚡ Tech Stack
+
+<div align="center">
+
+**Languages & Query**
+
+[![Skills](https://skillicons.dev/icons?i=python,r,js,php&theme=dark)](https://skillicons.dev)
+
+**Databases**
+
+[![Skills](https://skillicons.dev/icons?i=postgres,mysql&theme=dark)](https://skillicons.dev)
+
+**DevOps & Tools**
+
+[![Skills](https://skillicons.dev/icons?i=docker,git,github,vscode,linux,nodejs&theme=dark)](https://skillicons.dev)
+
+</div>
+
+---
+
+### 🚀 Featured Projects
+
+| Project | Description | Stack |
+|---------|-------------|-------|
+| [**ObRail Europe**](https://github.com/JXPM) | Pipeline ETL · API REST industrialisée pour flux ferroviaires européens | `FastAPI` `PostgreSQL` `Docker` `CI/CD` |
+| [**Chatbot IT**](https://github.com/JXPM) | Assistant conversationnel NLP connecté à l'API OpenAI via Flask | `Python` `Flask` `OpenAI` `JS` |
+| [**Projet GEMA**](https://github.com/JXPM) | Architecture BDD & gouvernance des données pour J&M Écodigital | `SQL` `Modeling` `PM` |
+| [**Site Fingec**](https://github.com/JXPM) | Personnalisation full-stack avec charte graphique sur mesure | `MySQL` `PHP` `CSS` |
+
+---
+
+### 🎓 Certifications
+
+<div align="center">
+
+[![](https://img.shields.io/badge/Power_BI_Data_Analyst_Associate-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)](https://learn.microsoft.com/certifications/)
+[![](https://img.shields.io/badge/Google_Data_Analytics_Professional-4285F4?style=for-the-badge&logo=google&logoColor=white)](https://grow.google/certificates/)
+
+[![](https://img.shields.io/badge/IBM_Data_Science_Professional-052FAD?style=for-the-badge&logo=ibm&logoColor=white)](https://www.ibm.com/training/)
+[![](https://img.shields.io/badge/Oracle_SQL_Certified_Associate-F80000?style=for-the-badge&logo=oracle&logoColor=white)](https://education.oracle.com/)
+
+</div>
+
+---
+
+### 📬 Connect
+
+<div align="center">
+
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/JXPM)
+&nbsp;
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kouam%C3%A9-bile-8682b8296/)
+&nbsp;
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bilekouame04@gmail.com)
+
+</div>
+
+<br>
