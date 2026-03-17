@@ -45,14 +45,14 @@
 <div align="center">
 
 <!-- Généré automatiquement par le GitHub Action lowlighter/metrics -->
-<img src="./metrics.isocalendar.svg" alt="Isometric commit calendar"/>
+<img src="./metrics.plugin.isocalendar.fullyear.svg"/>
 
 </div>
 
 ---
 ### 🎟️ Issues & Pull Requests
 <div align="center">
-  <img src="./metrics.plugin.isocalendar.fullyear.svg"/>
+  <img src="./metrics.plugin.followup.svg" alt="Follow-up issues and PRs"/>
 </div>
 
 ---
