@@ -52,7 +52,7 @@
 ---
 ### 🎟️ Issues & Pull Requests
 <div align="center">
-  <img src="./metrics.plugin.followup.svg" alt="Follow-up issues and PRs"/>
+  <img src="./metrics.plugin.isocalendar.fullyear.svg"/>
 </div>
 
 ---
