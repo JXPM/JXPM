@@ -1,0 +1,25 @@
+name: Metrics
+
+on:
+  schedule: [{cron: "0 2 * * *"}]
+  workflow_dispatch:
+  push: {branches: ["main", "master"]}
+
+jobs:
+  metrics:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: lowlighter/metrics@latest
+        with:
+          token: ${{ secrets.METRICS_TOKEN }}
+          user: JXPM
+          template: classic
+          base: ""
+          config_timezone: Europe/Paris
+
+          # Calendrier isométrique pleine année
+          plugin_isocalendar: yes
+          plugin_isocalendar_duration: full-year
+          filename: metrics.isocalendar.svg
