@@ -1,42 +1,41 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Johan%20Bil%C3%A9%20Kouam%C3%A9&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Ing%C3%A9nieur%20IA%20%E2%80%A2%20Data%20Engineer%20%E2%80%A2%20D%C3%A9veloppeur%20Full%20Stack%20%E2%80%A2%20Entrepreneur&descAlignY=55&descSize=16" width="100%"/>
+<img src="https://raw.githubusercontent.com/JXPM/JXPM/refs/heads/main/Banniere%20linkedin.png" width="100%" alt="Johan Bilé Kouamé"/>
+
+<br/><br/>
 
 <a href="https://github.com/JXPM">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=650&lines=Cr%C3%A9ation+de+syst%C3%A8mes+intelligents;IA+G%C3%A9n%C3%A9rative+%26+Data+Engineering;D%C3%A9veloppement+Full+Stack;Transformer+les+id%C3%A9es+en+impact" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=D4AF37&center=true&vCenter=true&width=700&lines=AI+Engineer+%E2%80%A2+Data+Engineer;Entrepreneur+%E2%80%A2+Fondateur+de+Kawari;Construire+des+produits+intelligents;L'IA+au+service+des+entreprises+africaines" alt="Typing SVG" />
 </a>
 
 <br/>
 
-<img src="https://img.shields.io/badge/Ing%C3%A9nierie-IA-7C3AED?style=for-the-badge&logo=openai&logoColor=white" />
-<img src="https://img.shields.io/badge/Data-Engineering-6366F1?style=for-the-badge&logo=databricks&logoColor=white" />
-<img src="https://img.shields.io/badge/D%C3%A9veloppement-Full%20Stack-8B5CF6?style=for-the-badge&logo=react&logoColor=white" />
-<img src="https://img.shields.io/badge/Entrepreneur-B%C3%A2tisseur-4F46E5?style=for-the-badge&logo=rocket&logoColor=white" />
+<img src="https://img.shields.io/badge/AI-Engineer-D4AF37?style=for-the-badge&logo=openai&logoColor=white&labelColor=0D1117" />
+<img src="https://img.shields.io/badge/Data-Engineer-B8860B?style=for-the-badge&logo=databricks&logoColor=white&labelColor=0D1117" />
+<img src="https://img.shields.io/badge/SaaS-Builder-D4AF37?style=for-the-badge&logo=rocket&logoColor=white&labelColor=0D1117" />
+<img src="https://img.shields.io/badge/Fondateur-Kawari-B8860B?style=for-the-badge&logo=star&logoColor=white&labelColor=0D1117" />
 
 <br/><br/>
 
-<img src="https://img.shields.io/badge/📍_France_🇫🇷_/_Côte_d'Ivoire_🇨🇮-1E1B4B?style=for-the-badge" />
+<img src="https://img.shields.io/badge/📍_France_🇫🇷_/_Côte_d'Ivoire_🇨🇮-0D1117?style=for-the-badge" />
 
 <br/><br/>
 
-<a href="https://johanbilekouame.dev">
-  <img src="https://img.shields.io/badge/Portfolio-7C3AED?style=for-the-badge&logo=googlechrome&logoColor=white" />
+<a href="https://www.linkedin.com/in/kouam%C3%A9-johan-bile-8682b8296/">
+  <img src="https://img.shields.io/badge/LinkedIn-D4AF37?style=for-the-badge&logo=linkedin&logoColor=0D1117" />
 </a>
-<a href="https://www.linkedin.com/in/johanbilekouame">
-  <img src="https://img.shields.io/badge/LinkedIn-4F46E5?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-<a href="mailto:johan.bilekouame@gmail.com">
-  <img src="https://img.shields.io/badge/Email-6366F1?style=for-the-badge&logo=gmail&logoColor=white" />
+<a href="mailto:bilekouame04@gmail.com">
+  <img src="https://img.shields.io/badge/Email-B8860B?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 <a href="https://github.com/JXPM">
-  <img src="https://img.shields.io/badge/GitHub-8B5CF6?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-F5F5F5?style=for-the-badge&logo=github&logoColor=0D1117" />
 </a>
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=JXPM&style=flat-square&color=7C3AED&label=Vues+du+profil" />
-<img src="https://img.shields.io/github/followers/JXPM?style=flat-square&color=6366F1&labelColor=1E1B4B&label=Abonn%C3%A9s" />
-<img src="https://img.shields.io/github/stars/JXPM?style=flat-square&color=8B5CF6&labelColor=1E1B4B&label=Stars" />
+<img src="https://komarev.com/ghpvc/?username=JXPM&style=flat-square&color=D4AF37&label=Vues+du+profil" />
+<img src="https://img.shields.io/github/followers/JXPM?style=flat-square&color=B8860B&labelColor=0D1117&label=Abonn%C3%A9s" />
+<img src="https://img.shields.io/github/stars/JXPM?style=flat-square&color=D4AF37&labelColor=0D1117&label=Stars" />
 
 </div>
 
@@ -44,24 +43,44 @@
 
 ## 💼 À propos de moi
 
-```typescript
+```javascript
 const johan = {
-  rôles: ["Ingénieur IA", "Data Engineer", "Développeur Full Stack", "Entrepreneur"],
-  focus: "Construire des logiciels intelligents, scalables et orientés business",
-  étatDEsprit: "Excellence technique × Vision produit × Impact business"
+  rôles: [
+    "AI Engineer",
+    "Data Engineer",
+    "SaaS Builder",
+    "Entrepreneur"
+  ],
+
+  mission:
+    "Construire des produits intelligents qui créent un impact réel",
+
+  projet_principal:
+    "Kawari",
+
+  vision:
+    "Mettre l'intelligence artificielle au service des entreprises africaines"
 };
 ```
 
-Je suis **Ingénieur IA, Data Engineer, Développeur Full Stack et Entrepreneur**, passionné par la création de systèmes intelligents qui résolvent de vrais problèmes business. Mon travail se situe à l'intersection de l'**Intelligence Artificielle & IA Générative**, du **Data Engineering**, de la **Data Analytics**, du **Génie Logiciel**, du **Développement Produit**, des **Technologies Cloud** et de la **résolution de problèmes orientée business**.
+Je suis **AI Engineer, Data Engineer et Entrepreneur**, passionné par la création de systèmes intelligents qui résolvent de vrais problèmes business. Mon travail se situe à l'intersection de l'**Intelligence Artificielle & IA Générative**, du **Data Engineering**, de la **Data Analytics**, du **Génie Logiciel**, du **Développement Produit**, des **Technologies Cloud** et de la **résolution de problèmes orientée business**.
 
 Je conçois et livre des solutions de bout en bout — des pipelines de données et architectures de bases de données jusqu'aux applications IA prêtes pour la production — avec une expérience concrète sur **Python**, **JavaScript**, **React**, **React Native**, **Flask**, **PostgreSQL**, **SQL**, **Odoo**, **Linux** et les **API OpenAI**.
 
-Mon portfolio de projets comprend des **Chatbots IA**, un **Assistant IT d'Entreprise**, des **Applications Mobiles IA**, des **Produits SaaS** et des **Solutions Data** — chacun pensé pour la fiabilité, la sécurité et un impact business mesurable.
+Mon portfolio de projets comprend **Kawari**, des **Chatbots IA**, un **Assistant IT d'Entreprise**, des **Applications Mobiles IA** et des **Solutions Data** — chacun pensé pour la fiabilité, la sécurité et un impact business mesurable.
 
 ### 🎯 Ouvert à
 
 | 🤖 Ingénierie IA | 🛠️ Data Engineering | 💻 Développement Logiciel | ☁️ Projets Cloud & Data | 🤝 Missions de Conseil |
 |:---:|:---:|:---:|:---:|:---:|
+
+---
+
+## 🌍 Vision
+
+Je crois que l'Afrique a l'opportunité de devenir l'un des plus grands marchés de l'intelligence artificielle.
+
+Mon objectif est de construire des produits technologiques innovants qui créent de la valeur durable pour les entreprises et les particuliers, en commençant par **Kawari** puis par une future société de conseil spécialisée en **IA, Data et Cloud**.
 
 ---
 
@@ -74,14 +93,14 @@ Mon portfolio de projets comprend des **Chatbots IA**, un **Assistant IT d'Entre
 
 ### Frontend
 <img src="https://skillicons.dev/icons?i=react,html,css&theme=dark" />
-<img src="https://img.shields.io/badge/React_Native-1E1B4B?style=for-the-badge&logo=react&logoColor=8B5CF6" />
+<img src="https://img.shields.io/badge/React_Native-0D1117?style=for-the-badge&logo=react&logoColor=D4AF37" />
 
 ### Backend & Bases de données
 <img src="https://skillicons.dev/icons?i=flask,postgres,mysql&theme=dark" />
 
 ### Cloud, DevOps & Outils
 <img src="https://skillicons.dev/icons?i=linux,git,github,vscode&theme=dark" />
-<img src="https://img.shields.io/badge/Odoo-1E1B4B?style=for-the-badge&logo=odoo&logoColor=8B5CF6" />
+<img src="https://img.shields.io/badge/Odoo-0D1117?style=for-the-badge&logo=odoo&logoColor=D4AF37" />
 
 </div>
 
@@ -104,6 +123,23 @@ Mon portfolio de projets comprend des **Chatbots IA**, un **Assistant IT d'Entre
 
 ## 🚀 Projets Phares
 
+<details open>
+<summary><b>🚀 Kawari</b> — Plateforme SaaS propulsée par l'IA · Projet principal</summary>
+<br/>
+
+Plateforme **SaaS innovante** conçue pour résoudre des défis business et de communication grâce à des **expériences propulsées par l'IA**. Kawari combine stratégie produit, ingénierie moderne et IA générative pour apporter de la valeur durable aux organisations, avec l'Afrique comme premier horizon.
+
+| | |
+|:--|:--|
+| **Stack** | React · Python · Flask · PostgreSQL · API OpenAI |
+| **Échelle** | Architecture SaaS multi-tenant conçue pour la croissance |
+| **Performance** | Couches API optimisées et expérience front-end réactive |
+| **Sécurité** | Authentification, accès par rôles, gestion sécurisée des données |
+| **Impact** | Aventure entrepreneuriale transformant les capacités de l'IA en solutions business |
+| **Dépôt** | [Voir le dépôt](https://github.com/JXPM) |
+
+</details>
+
 <details>
 <summary><b>🤖 Assistant IT d'Entreprise IA</b> — Chatbot d'entreprise pour l'automatisation du support IT</summary>
 <br/>
@@ -122,7 +158,7 @@ Chatbot d'entreprise développé avec **Python, Flask, JavaScript et l'API OpenA
 </details>
 
 <details>
-<summary><b>💬 IA Conversationnelle Personnelle</b> — Assistant IA personnel avec mémoire contextuelle</summary>
+<summary><b>🧠 IA Conversationnelle Personnelle</b> — Assistant IA personnel avec mémoire contextuelle</summary>
 <br/>
 
 Assistant IA conçu pour **mémoriser les préférences de l'utilisateur**, échanger sur ses projets en cours et offrir des conversations riches et interactives. Bâti autour d'un contexte persistant et de la personnalisation, il agit comme un véritable compagnon numérique pour la productivité et l'idéation.
@@ -139,24 +175,7 @@ Assistant IA conçu pour **mémoriser les préférences de l'utilisateur**, éch
 </details>
 
 <details>
-<summary><b>🌐 Kawari SaaS</b> — Plateforme SaaS propulsée par l'IA</summary>
-<br/>
-
-Plateforme **SaaS innovante** conçue pour résoudre des défis business et de communication grâce à des **expériences propulsées par l'IA**. Kawari combine stratégie produit, ingénierie moderne et IA générative pour apporter de la valeur aux organisations à grande échelle.
-
-| | |
-|:--|:--|
-| **Stack** | React · Python · Flask · PostgreSQL · API OpenAI |
-| **Échelle** | Architecture SaaS multi-tenant conçue pour la croissance |
-| **Performance** | Couches API optimisées et expérience front-end réactive |
-| **Sécurité** | Authentification, accès par rôles, gestion sécurisée des données |
-| **Impact** | Aventure entrepreneuriale transformant les capacités de l'IA en solutions business |
-| **Dépôt** | [Voir le dépôt](https://github.com/JXPM) |
-
-</details>
-
-<details>
-<summary><b>🏢 Espace de Travail Collaboratif Virtuel</b> — Environnement de travail virtuel gamifié</summary>
+<summary><b>🌍 Espace de Travail Collaboratif Virtuel</b> — Environnement de travail virtuel gamifié</summary>
 <br/>
 
 Environnement de travail virtuel **interactif inspiré des expériences de jeu vidéo**, intégrant communication, réunions, espaces de collaboration et outils de productivité. Réinvente le travail à distance en une expérience engageante, spatiale et centrée sur l'humain.
@@ -230,19 +249,19 @@ Environnement de travail virtuel **interactif inspiré des expériences de jeu v
 <div align="center">
 
 ### ☁️ AWS
-<img src="https://img.shields.io/badge/AWS-Fondamentaux_du_Cloud-7C3AED?style=for-the-badge&logo=amazonwebservices&logoColor=white&labelColor=1E1B4B" />
+<img src="https://img.shields.io/badge/AWS-Fondamentaux_du_Cloud-D4AF37?style=for-the-badge&logo=amazonwebservices&logoColor=white&labelColor=0D1117" />
 
 ### 🗄️ Oracle
-<img src="https://img.shields.io/badge/Oracle-Bases_de_donn%C3%A9es_%26_SQL-6366F1?style=for-the-badge&logo=oracle&logoColor=white&labelColor=1E1B4B" />
+<img src="https://img.shields.io/badge/Oracle-Bases_de_donn%C3%A9es_%26_SQL-B8860B?style=for-the-badge&logo=oracle&logoColor=white&labelColor=0D1117" />
 
 ### 🌐 Cisco
-<img src="https://img.shields.io/badge/Cisco-Essentiels_des_R%C3%A9seaux-8B5CF6?style=for-the-badge&logo=cisco&logoColor=white&labelColor=1E1B4B" />
+<img src="https://img.shields.io/badge/Cisco-Essentiels_des_R%C3%A9seaux-D4AF37?style=for-the-badge&logo=cisco&logoColor=white&labelColor=0D1117" />
 
 ### 🪟 Microsoft
-<img src="https://img.shields.io/badge/Microsoft-Fondamentaux_Technologiques-4F46E5?style=for-the-badge&logo=microsoft&logoColor=white&labelColor=1E1B4B" />
+<img src="https://img.shields.io/badge/Microsoft-Fondamentaux_Technologiques-B8860B?style=for-the-badge&logo=microsoft&logoColor=white&labelColor=0D1117" />
 
 ### 🤖 OpenAI Learning
-<img src="https://img.shields.io/badge/OpenAI-IA_%26_Prompt_Engineering-7C3AED?style=for-the-badge&logo=openai&logoColor=white&labelColor=1E1B4B" />
+<img src="https://img.shields.io/badge/OpenAI-IA_%26_Prompt_Engineering-D4AF37?style=for-the-badge&logo=openai&logoColor=white&labelColor=0D1117" />
 
 </div>
 
@@ -253,19 +272,19 @@ Environnement de travail virtuel **interactif inspiré des expériences de jeu v
 <div align="center">
 
 <a href="https://leetcode.com/JXPM">
-  <img src="https://img.shields.io/badge/LeetCode-1E1B4B?style=for-the-badge&logo=leetcode&logoColor=FFA116" height="40" />
+  <img src="https://img.shields.io/badge/LeetCode-0D1117?style=for-the-badge&logo=leetcode&logoColor=D4AF37" height="40" />
 </a>
 &nbsp;
 <a href="https://www.geeksforgeeks.org/user/JXPM">
-  <img src="https://img.shields.io/badge/GeeksforGeeks-1E1B4B?style=for-the-badge&logo=geeksforgeeks&logoColor=2F8D46" height="40" />
+  <img src="https://img.shields.io/badge/GeeksforGeeks-0D1117?style=for-the-badge&logo=geeksforgeeks&logoColor=D4AF37" height="40" />
 </a>
 &nbsp;
 <a href="https://www.hackerrank.com/JXPM">
-  <img src="https://img.shields.io/badge/HackerRank-1E1B4B?style=for-the-badge&logo=hackerrank&logoColor=00EA64" height="40" />
+  <img src="https://img.shields.io/badge/HackerRank-0D1117?style=for-the-badge&logo=hackerrank&logoColor=D4AF37" height="40" />
 </a>
 &nbsp;
 <a href="https://www.codechef.com/users/JXPM">
-  <img src="https://img.shields.io/badge/CodeChef-1E1B4B?style=for-the-badge&logo=codechef&logoColor=white" height="40" />
+  <img src="https://img.shields.io/badge/CodeChef-0D1117?style=for-the-badge&logo=codechef&logoColor=F5F5F5" height="40" />
 </a>
 
 </div>
@@ -276,12 +295,12 @@ Environnement de travail virtuel **interactif inspiré des expériences de jeu v
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=JXPM&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=8B5CF6&text_color=C9D1D9&locale=fr" height="170" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=JXPM&theme=midnight-purple&hide_border=true&background=0D1117&ring=8B5CF6&fire=A78BFA&currStreakLabel=A78BFA&locale=fr" height="170" />
+<img src="https://github-readme-stats.vercel.app/api?username=JXPM&show_icons=true&hide_border=true&bg_color=0D1117&title_color=D4AF37&icon_color=B8860B&text_color=F5F5F5&locale=fr" height="170" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=JXPM&hide_border=true&background=0D1117&ring=D4AF37&fire=B8860B&currStreakLabel=D4AF37&sideLabels=F5F5F5&currStreakNum=F5F5F5&sideNums=F5F5F5&dates=F5F5F5&locale=fr" height="170" />
 
 <br/><br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JXPM&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=C9D1D9&locale=fr" height="160" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JXPM&layout=compact&hide_border=true&bg_color=0D1117&title_color=D4AF37&text_color=F5F5F5&locale=fr" height="160" />
 
 </div>
 
@@ -291,7 +310,7 @@ Environnement de travail virtuel **interactif inspiré des expériences de jeu v
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=JXPM&theme=radical&no-frame=true&no-bg=true&margin-w=8&column=7" width="100%" />
+<img src="https://github-profile-trophy.vercel.app/?username=JXPM&theme=onestar&no-frame=true&no-bg=true&margin-w=8&column=7" width="100%" />
 
 </div>
 
@@ -301,7 +320,7 @@ Environnement de travail virtuel **interactif inspiré des expériences de jeu v
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=JXPM&theme=react-dark&bg_color=0D1117&color=A78BFA&line=8B5CF6&point=6366F1&hide_border=true&area=true" width="100%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=JXPM&bg_color=0D1117&color=D4AF37&line=B8860B&point=F5F5F5&title_color=D4AF37&hide_border=true&area=true&area_color=B8860B" width="100%" />
 
 </div>
 
@@ -326,7 +345,7 @@ apprentissage:
   - MLOps
 
 construction:
-  - Kawari SaaS
+  - Kawari
   - Applications IA
   - Solutions Data
 
@@ -336,7 +355,7 @@ exploration:
   - Automatisation d'Entreprise
 
 ouvert_à:
-  - Postes d'Ingénieur IA
+  - Postes d'AI Engineer
   - Postes de Data Engineer
   - Postes d'Ingénieur Logiciel
   - Missions de Conseil
@@ -348,20 +367,16 @@ ouvert_à:
 
 <div align="center">
 
-<a href="mailto:johan.bilekouame@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-johan.bilekouame@gmail.com-6366F1?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1E1B4B" />
+<a href="mailto:bilekouame04@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-bilekouame04@gmail.com-B8860B?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0D1117" />
 </a>
 <br/>
-<a href="https://www.linkedin.com/in/johanbilekouame">
-  <img src="https://img.shields.io/badge/LinkedIn-Johan_Bilé_Kouamé-4F46E5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1E1B4B" />
+<a href="https://www.linkedin.com/in/kouam%C3%A9-johan-bile-8682b8296/">
+  <img src="https://img.shields.io/badge/LinkedIn-Johan_Bilé_Kouamé-D4AF37?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0D1117" />
 </a>
 <br/>
 <a href="https://github.com/JXPM">
-  <img src="https://img.shields.io/badge/GitHub-JXPM-8B5CF6?style=for-the-badge&logo=github&logoColor=white&labelColor=1E1B4B" />
-</a>
-<br/>
-<a href="https://johanbilekouame.dev">
-  <img src="https://img.shields.io/badge/Portfolio-johanbilekouame.dev-7C3AED?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=1E1B4B" />
+  <img src="https://img.shields.io/badge/GitHub-JXPM-F5F5F5?style=for-the-badge&logo=github&logoColor=0D1117&labelColor=0D1117" />
 </a>
 
 </div>
@@ -370,8 +385,8 @@ ouvert_à:
 
 <div align="center">
 
-### *« Mettre l'intelligence au cœur de chaque produit — là où l'IA rencontre l'impact. »*
+### *« Construire aujourd'hui les produits intelligents qui transformeront l'Afrique de demain. »*
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:B8860B,100:D4AF37&height=120&section=footer" width="100%"/>
 
 </div>
